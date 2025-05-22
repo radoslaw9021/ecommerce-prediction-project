@@ -1,0 +1,1 @@
+# Skrypty do czyszczenia i przygotowania danych

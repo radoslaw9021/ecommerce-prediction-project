@@ -1,0 +1,1 @@
+# Folder na dane (np. dane wejściowe z Kaggle lub UCI)
